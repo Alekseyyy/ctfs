@@ -1,7 +1,7 @@
 # CodeSignal Company Challenges
 #
 # A solution to SpaceX's "launchSequenceChecker" challenge
-# By Aleksey
+# By A. S. "Aleksey" Ahmann, hackermaneia@riseup.net
 #
 
 def launchSequenceChecker(systemNames, stepNumbers):

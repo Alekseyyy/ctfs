@@ -1,7 +1,7 @@
 # CodeSignal Company Challenges
 #
 # A solution to GoDaddy's "domainType" challenge
-# By Aleksey
+# By A. S. "Aleksey" Ahmann, hackermaneia@riseup.net
 #
 
 def domainType(domains):

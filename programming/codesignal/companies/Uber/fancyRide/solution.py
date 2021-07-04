@@ -1,7 +1,7 @@
 # CodeSignal Company Challenges
 #
 # A solution to Uber's "fancyRide" challenge
-# By Aleksey
+# By A. S. "Aleksey" Ahmann, hackermaneia@riseup.net
 #
 
 def fancyRide(l, fares):

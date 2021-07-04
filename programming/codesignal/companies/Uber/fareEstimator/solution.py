@@ -1,7 +1,7 @@
 # CodeSignal Company Challenges
 #
 # A solution to Uber's "fareEstimator" challenge
-# By Aleksey
+# By A. S. "Aleksey" Ahmann, hackermaneia@riseup.net
 #
 
 def fareEstimator(ride_time, ride_distance, cost_per_minute, cost_per_mile):

@@ -3,13 +3,37 @@
 
 ## Programming
 
-Here is where I do coding puzzles and competitive programming. Check out this section's [README.md file](./programming/README.md).
+Here is where I do coding puzzles and competitive programming.
 
-Profiles re. coding puzzles and competitive programming: [HackerRank](https://www.hackerrank.com/hackermaneia), [CodeSignal](https://app.codesignal.com/profile/alexande1224), [Coderbyte](https://coderbyte.com/profile/EntropyThot), [Topcoder](https://www.topcoder.com/members/LambdaCalculus), [Edabit](https://edabit.com/user/PDK3Bb98sENmo5wnT) and [Project Lovelace](https://projectlovelace.net/users/EpsilonCalculus/)
+<details>
+<summary>CodeSignal</summary>
+
+    <details>
+    <summary>Company Challenges</summary>
+    </details>
+
+    <details>
+    <summary>Tourney (depleated)</summary>
+
+    <ul>
+        <li><a href="./programming/codesignal/tourney/21Nov2020/">21 Nov., 2020</a></li>
+        <li><a href="./programming/codesignal/tourney/21Nov2020-2/">21 Nov., 2020 (round 2)</a></li>
+        <li><a href="./programming/codesignal/tourney/22Nov2020/">22 Nov., 2020</a></li>
+    </ul>
+    </details>
+</details>
+
+<details>
+<summary>CodinGame</summary>
+
+    <details>
+    <summary>Clash of code</summary>
+    </details>
+</details>
+
 
 ## Infosec
 
-I also like to do a number of cybersecurity focused capture the flags (hence the name of this repo). Check out this section's [README.md file](./infosec/README.md).
+I also like to do a number of cybersecurity focused capture the flags (or "ctfs," hence the name of this repo). 
 
-Profiles re. InfoSec CTFs: [W3challs](https://w3challs.com/profile/EntropyThot) and [ringzer0ctf](https://ringzer0ctf.com/profile/36667/EntropyThot)
 
